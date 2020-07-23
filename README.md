@@ -12,7 +12,7 @@ following tools and languages are used in this project:
 * *Python* - Version 3.8.4
 * *Django Framework* - Version 3.0.8
 * *HTML5* - Markup Language
-* *CSS3* - StyleSheet
+* *Bootstrap* - Version 4.5.0
 
 ## Building Pollster
 Use `git clone` or download the project from this page. Note that the `master` branch contains the latest fixes and features.
